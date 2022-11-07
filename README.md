@@ -6,7 +6,7 @@
 
 ## 𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 -𝗕𝗢𝗧࿐   Version 12.0
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙍𝙀𝘿╺+𝘿𝙍𝘼𝙂𝙊𝙉+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+SHENAL MAX;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+SHENAL MAX;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹ආදරෙයි උම්මා 😘)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙍𝙀𝘿╺+𝘿𝙍𝘼𝙂𝙊𝙉+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+SHENAL MAX;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+THARU;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹ආදරෙයි උම්මා 😘)](https://git.io/typing-svg)
 
 LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 
@@ -14,7 +14,7 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 
 <img src="https://github.com/xcodejet/xcodejet/blob/main/xcodejet-media/xcodejet_gif.gif">" alt="Loading..." width="310"/>
 
-# Powered By: XCODEJET
+# Powered By: SHENAL MAX
 
 
 <p align="center">
@@ -131,7 +131,8 @@ Recommended WhatsApp👇
 <div align="center">
 	
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
-
+<img src=![black_lion_wallpaper_001](https://user-images.githubusercontent.com/117567493/200248389-e9e330c1-1812-40b7-92de-7aa06a2b8a09.jpg)
+<HELPED BY LION:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 </div>
 
