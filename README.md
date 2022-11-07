@@ -15,7 +15,7 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 <jpg src=![20221106_204528](https://user-images.githubusercontent.com/117567493/200249216-5584670c-8285-4c51-9f38-12a42b220da7.jpg)
 
 
-# Powered By: SHENAL MAX(PODI KOLLA)
+# Powered By: SHENAL MAX(PODI KOLLA)o
 
 
 <p align="center">
